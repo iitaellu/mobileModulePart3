@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">mobileModulePart3</string>
+
+    <string-array name="pokemons">
+        <item>Charmander</item>
+        <item>Bulbasaur</item>
+        <item>Squirtle</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>Fire</item>
+        <item>Grass</item>
+        <item>Water</item>
+    </string-array>
+    description
+    <string-array name="description">
+        <item>It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.</item>
+        <item>There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.</item>
+        <item>When it retracts its long neck into its shell, it squirts out water with vigorous force.</item>
+    </string-array>
+
 </resources>
